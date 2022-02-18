@@ -8,10 +8,11 @@
     "module": "UMD",
     "skipLibCheck": true,
     "sourceMap": true,
+    "declaration": true,
     
     "moduleResolution": "node",
     "esModuleInterop": true,
-
+    
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
